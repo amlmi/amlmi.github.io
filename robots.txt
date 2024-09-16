@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amlmi.github.io/ewq/sitemap.ewq.gz
